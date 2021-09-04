@@ -1,0 +1,13 @@
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\bin\Debug\netcoreapp3.1\ObservablePattern2.exe
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\bin\Debug\netcoreapp3.1\ObservablePattern2.deps.json
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\bin\Debug\netcoreapp3.1\ObservablePattern2.runtimeconfig.json
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\bin\Debug\netcoreapp3.1\ObservablePattern2.runtimeconfig.dev.json
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\bin\Debug\netcoreapp3.1\ObservablePattern2.dll
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\bin\Debug\netcoreapp3.1\ObservablePattern2.pdb
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.csprojAssemblyReference.cache
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.AssemblyInfoInputs.cache
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.AssemblyInfo.cs
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.csproj.CoreCompileInputs.cache
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.dll
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.pdb
+C:\Users\Helder\source\repos\ObservablePattern\ObservablePattern2\obj\Debug\netcoreapp3.1\ObservablePattern2.genruntimeconfig.cache
